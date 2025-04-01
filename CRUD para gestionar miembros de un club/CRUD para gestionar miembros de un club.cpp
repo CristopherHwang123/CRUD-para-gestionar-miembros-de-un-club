@@ -103,7 +103,7 @@ public:
 	}
 };
 
-//Parte 3: Implementación del Menú Principal
+
 int main() {
 	int opcion;
 	do {
